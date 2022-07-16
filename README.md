@@ -1,15 +1,9 @@
 # FILE TEXT GITHUB
-git init
-
-git branch -m code
-
-git add .
-
-git commit -m "first commit"
-
-git remote add origin link
-
-git push origin(đề xuất thêm)
-
+- git init
+- git add .
+- git commit -m "first commit"
+- git branch -m main
+- git remote add origin link
+- git push -u origin main
 
 https://github.com/AnyChart/AnyChart-Android
